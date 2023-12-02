@@ -1,12 +1,12 @@
-# Node js Login And Register , Express Mysql , Bcrypt , Jwt
-- Project Node.js , Express , Mysql , Bcrypt , Jwt made using
+# Cyber Security Final Project - Penetration Testing (MySQL Access & Broken Access Control)
+- Project Node.js , Express , Mysql , Bcrypt , Jwt 
+- Website made by Stefan 
+- MySQL Database using XAMPP
 ---
- To run the project ``.env`` file edit later
+ To run the project 
  - `npm install`
 - `node index.js`
 - started `localhost:5000/`
 
-
-### Note : 
-The project is open to development in terms of interface design.
-You can create beautiful projects by designing.
+``.env`` file edit using local database name and table name
+````
